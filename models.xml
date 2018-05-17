@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE films SYSTEM "models.dtd">
+<?xml-stylesheet type="text/xsl" href="models.xsl"?>
+
+<monuments>
+	<monument>
+		<names>
+			<name lang="en">Hierapolis</name>
+			<name lang="el">Ἱεράπολις</name>
+		</names>
+
+		<location>
+			<place>Pammukale</place>
+			<country>Turkey</country>
+		</location>
+
+		<description>The ruins of an ancient city that dates from the 2nd century BC. Located on hot springs, it consist of several structures, like the Theatre, the Temple of Apollo, the Nymphaeum and the Necropolis.</description>
+		<link>https://en.wikipedia.org/wiki/Hierapolis</link>
+		<picture source="https://cdn.pixabay.com/photo/2016/03/27/09/54/hierapolis-of-phrygia-1282421_960_720.jpg">hierapolis.png</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">Grand Palais</name>
+			<name lang="fr">Grand Palais des Champs-Élysées</name>
+		</names>
+
+		<location>
+			<place>Paris</place>
+			<country>France</country>
+		</location>
+
+		<description>Construction of the Grand Palais began in 1897 as part of the preparation works for the Universal Exposition of 1900. The building reflects Beaux-Arts architecture's taste for ornate decoration.</description>
+		<link>https://en.wikipedia.org/wiki/Grand_Palais</link>
+		<picture source="https://snappygoat.com/f/9c823dce399d29438fbb331c3905a08465377841/grand-palais-paris-france-city-195324.jpg">grandpalais.png</picture>
+	</monument>
+	
+	<monument>
+		<names>
+			<name lang="en">Belém Tower</name>
+			<name lang="pt">Torre de Belém</name>
+		</names>
+
+		<location>
+			<place>Lisbon</place>
+			<country>Portugal</country>
+		</location>
+
+		<description>Belém Tower is a fortified tower located in the civil parish of Santa Maria de Belém in the municipality of Lisbon, Portugal. It is a UNESCO World Heritage Site (along with the nearby Jerónimos Monastery) because of the significant role it played in the Portuguese maritime discoveries of the era of the Age of Discoveries.</description>
+		<link>https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower</link>
+		<picture source="https://free-images.com/lg/06e9/torre_de_belem_lisboa.jpg">belemtower.png</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">Palace of Versailles</name>
+			<name lang="fr">Château de Versailles</name>
+		</names>
+
+		<location>
+			<place>Versailles</place>
+			<country>France</country>
+		</location>
+
+		<description>The Palace of Versailles, is a royal Château in Versailles in the Île-de-France region of France. It is now open as a museum and is a very popular tourist attraction.</description>
+		<link>https://en.wikipedia.org/wiki/Palacio_de_Versalles</link>
+		<picture source="https://cdn.pixabay.com/photo/2014/10/22/17/40/versailles-498346_960_720.jpg">versailles.png</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">Eiffel Tower</name>
+			<name lang="fr">Tour Eiffel</name>
+		</names>
+
+		<location>
+			<place>Paris</place>
+			<country>France</country>
+		</location>
+
+		<description> A 324 meters metallic tower built for 1889 World's Fair. When it was build it became the tallest man-made structure in the world, and nowadays it is the most-visited paid monument in the world.</description>
+		<link>https://en.wikipedia.org/wiki/Eiffel_Tower</link>
+		<picture source=" https://pixabay.com/en/france-eiffel-tower-le-tour-eiffel-1930766>versailles.png">eiffeltower.png</picture>
+	</monument>
+
+
+	<monument>
+		<names>
+			<name lang="en">Rossio Square</name>
+			<name lang="pt">Praça do Rossio</name>
+		</names>
+
+		<location>
+			<place>Lisbon</place>
+			<country>Portugal</country>
+		</location>
+
+		<description>setting of popular revolts and celebrations, bullfights and executions, and is now a preferred meeting place of Lisbon natives and tourists alike.</description>
+		<link>https://en.wikipedia.org/wiki/Rossio_Square</link>
+		<picture>rossiosquare.jpg</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">Ephesus</name>
+			<name lang="el">Ἔφεσος</name>
+		</names>
+
+		<location>
+			<place>Selçuk</place>
+			<country>Turkey</country>
+		</location>
+
+		<description>It was an ancient Greek city on the coast of Ionia. It was built in the 10th century BC. During the Classical Greek era it was one of the twelve cities of the Ionian League. The city flourished after it came under the control of the Roman Republic in 129 BC.</description>
+		<link>https://en.wikipedia.org/wiki/Ephesus</link>
+		<picture source="https://twinspace.etwinning.net/files/collabspace/8/68/068/46068/images/b799f0a3.png">ephesus.png</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">Basilica Cistern</name>
+			<name lang="el">Yerebatan Sarnici</name>
+		</names>
+
+		<location>
+			<place>Istanbul</place>
+			<country>Turkey</country>
+		</location>
+
+		<description>The Basilica Cistern is the largest of several hundred ancient cisterns that lie beneath the city of Istanbul. The cistern, located 150 metres southwest of the Hagia Sophia on the historical peninsula of Sarayburnu, was built in the 6th century during the reign of Byzantine Emperor Justinian I.</description>
+		<link>https://en.wikipedia.org/wiki/Basilica_Cistern</link>
+		<picture source="https://twinspace.etwinning.net/files/collabspace/8/68/068/46068/images/c8130dbf3.png">basilicacistern.png</picture>
+	</monument>
+	
+	<monument>
+		<names>
+			<name lang="en">Orient Station</name>
+			<name lang="pt">Gare do Oriente</name>
+		</names>
+
+		<location>
+			<place>Lisbon</place>
+			<country>Portugal</country>
+		</location>
+
+		<description>Is one of the main Portuguese intermodal transport hubs, and is situated in the civil parish of Parque das Nações, municipality of Lisbon.</description>
+		<link>https://en.wikipedia.org/wiki/Gare_do_Oriente</link>
+		<picture source="https://twinspace.etwinning.net/files/collabspace/8/68/068/46068/images/bffcab13.png">orientstation.png</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">Jorge Castle</name>
+			<name lang="pt">Castelo de São Jorge</name>
+		</names>
+
+		<location>
+			<place>Lisbon</place>
+			<country>Portugal</country>
+		</location>
+
+		<description>This Castle, built in the 14th century. The fortification, built by the Moors in the mid-11th century, was the last defensive stronghold for the elite who resided on the citadel: the Moorish governor whose palace was nearby, and the elite city administrators whose homes are visible today in the Archaeological Site.</description>
+		<link>http://castelodesaojorge.pt/en/history/</link>
+		<picture source="https://twinspace.etwinning.net/files/collabspace/8/68/068/46068/images/bedfad33.png">jorgecastle.png</picture>
+	</monument>
+	
+
+	<monument>
+		<names>
+			<name lang="en">Trajan Fountain</name>
+			<name lang="tr">Trajan Çeşmesi</name>
+		</names>
+
+		<location>
+			<place>Izmir</place>
+			<country>Turkey</country>
+		</location>
+
+		<description>It was constructed for the honor of Emperor Trajan, and the statue of Trajan stood in the central niche on the facade overlooking the pool.</description>
+
+		<link>http://www.ephesusturkey.com/ephesus-highlights/trajan-fountain/</link>
+		<picture>trajanfountain.jpg</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">
+				Alhambra of Granada
+			</name>
+			<name lang="tr">
+
+			</name>
+		</names>
+
+		<location>
+			<place>
+				Andalusia
+			</place>
+			<country>
+				Spain
+			</country>
+		</location>
+
+		<description>
+			Arab writers used to compare to GranadaLike a great Crown in whose front it excels the diadem of the Alhambra. Although of an eminently Nasrid style, this monument is a superposition of different eras and architectural styles. It was originally built in the year 889, in the middle ages, and then largely ignored until the Moorish conquest. The Muslims removed this palace from the ruin and turned it into an authentic architectural jewel. With a clear Byzantine influence, the artists who forged this piece of monument developed a new style that is reflected in the capitals, arches and decorative details of the ceilings. When the Christians took control of Granada, they began to alter parts of the castle to make room to the rebirth removing arabesque details and decorations
+		</description>
+
+		<link>
+			http://www.andalucia.com/cities/granada/alhamhistory.htm
+		</link>
+		<picture>
+			alhambraofgranada.jpg
+		</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">
+				Mosque of Cordoba
+
+			</name>
+			<name lang="tr">
+
+			</name>
+		</names>
+
+		<location>
+			<place>
+				Andalusia
+			</place>
+			<country>
+				Spain
+			</country>
+		</location>
+
+		<description>
+			And from one Spanish-Muslim work to another. In fact, it is said that the construction of the Alhambra in Granada is inspired by the magnificent details of the mosque of Cordoba. This Umayyad-style religious building began to be built in 785, following the Muslim invasion. The work grew throughout the duration of the Islamic conquest. But once the Christians regained control of the city, the modifications and additions began. Back in the 1500’s a Renaissance-style basilica was incorporated into the mosque. The Christian cathedral and the Muslim mosque became a single building, which they are today. Without divisions neither physical nor spiritual, two opposite worlds in many ways coexist in perfect harmony complementing each other stylistically
+		</description>
+
+		<link>
+
+		</link>
+		<picture>
+			https://tinyurl.com/y8x7w9eh
+			mosqueofcordoba.jpg
+		</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">
+				Aqueduct of Segovia
+			</name>
+			<name lang="tr">
+
+			</name>
+		</names>
+
+		<location>
+			<place>
+				Castilla y Leon
+			</place>
+			<country>
+				Spain
+			</country>
+		</location>
+
+		<description>
+			In the middle of Castilla, we find a loophole of what once was one of the best civil works in history. It is the imposing aqueduct that the Romans built there in the first century and served to transport water from the mountains to the city. The aqueduct of Segovia has 166 arches that run about 15 kilometers across the countryside and urban area. This marvel of civil engineering has been standing almost intact for thousands of years despite wars and conflicts. In 1992 the municipality of Segovia decided to cut the traffic below the aqueduct as the vibration produced by the traffic was affecting its structure.
+		</description>
+
+		<link>
+
+		</link>
+		<picture>
+			http://ak3.picdn.net/shutterstock/videos/7193293/thumb/1.jpg
+		</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">
+				Sagrada Familia
+
+			</name>
+			<name lang="tr">
+
+			</name>
+		</names>
+
+		<location>
+			<place>
+				Barcelona
+			</place>
+			<country>
+				Spain
+			</country>
+		</location>
+
+		<description>
+			Really interesting monuments in Spain. The Sagrada Familia is the unfinished work of the modern architect Antoni Gaudí. Well, it’s much more than that. It is the monument that brings together more tourists a year in Barcelona. This colossal temple is one of your favorites for many reasons. But one of them is the magnificent façade of the Nativity, richly ornamented. Or its interior, which resembles a forest of white columns that are colored by the reflection of the sun on the large windows of stained glass. If you approach there, you will see how they are working on the construction of the first sacristy and the central towers. And when they finish, the main façade, also known as the Portal de la Gloria, remains.
+		</description>
+
+		<link>
+
+		</link>
+		<picture>
+			https://tinyurl.com/ycalp757
+		</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">
+				Cathedral of Burgos
+			</name>
+			<name lang="tr">
+
+			</name>
+		</names>
+
+		<location>
+			<place>
+				Castilla y León
+			</place>
+			<country>
+				Spain
+			</country>
+		</location>
+
+		<description>
+			It is difficult to speak of the Cathedral of Burgos without paying special attention to its main façade inspired by those of the cathedrals of Paris and Reims and which is considered as the most important sculptural manifestation of Gothic in Castile. Although impressive, we recommend that you take your time and enjoy all the treasures that are hidden inside. Of note are the Condestable Chapel, in Elizabethan Gothic style; As well as the wonderful golden staircase and the tomb of the Cid and Dona Jimena. Come on, one of the monuments in Spain that you should see already … if you have not already done so.
+		</description>
+
+		<link>
+
+		</link>
+		<picture>
+			https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdlbloo8eA77KQoKBPyW6MlorKeOxFwMsksDjF8BDL53ZOWqQ7dg
+		</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">
+				JERONIMOS MONASTERY
+			</name>
+			<name lang="tr">
+				Mosteiro Dos Jeronimos
+			</name>
+		</names>
+
+		<location>
+			<place>
+				lisbon
+			</place>
+			<country>
+				portugal
+			</country>
+		</location>
+
+		<description>
+			The monastery was populated by monks of the Order of Saint Jerome (Hieronymites), whose spiritual job was to give guidance to sailors and pray for the king's soul. It is one of the great triumphs of European Gothic (UNESCO has classified it a World Heritage monument), with much of the design characterized by elaborate sculptural details and maritime motifs.This style of architecture became known as Manueline, a style of art that served to glorify the great discoveries of the age.
+		</description>
+
+		<link>
+			http://www.golisbon.com/sight-seeing/jeronimos.html
+		</link>
+		<picture>
+			
+		</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">
+				Santuario Santuário Nacional de Cristo Rei
+			</name>
+			<name lang="tr">
+
+			</name>
+		</names>
+
+		<location>
+			<place>
+				almada
+			</place>
+			<country>
+				Portugal
+			</country>
+		</location>
+
+		<description>
+			Catholic monument and shrine dedicated to the Sacred Heart of Jesus Christ overlooking the city of Lisbon situated in Almada, in Portugal. It was inspired by the Christ the Redeemer statue of Rio de Janeiro, in Brazil, after the Cardinal Patriarch of Lisbon visited that monument. The project was inaugurated on 17 May 1959, while Portugal was ruled by the authoritarian President of the Council of Ministers Antonio de Oliveira Salazar who gave his final permission for the project. The giant statue in cement was erected to express gratitude because the Portuguese were spared the effects of World War II
+		</description>
+
+		<link>
+			http://www.golisbon.com/blog/2007/08/01/cristo-rei/
+		</link>
+		<picture>
+			
+		</picture>
+	</monument>
+
+	<monument>
+		<names>
+			<name lang="en">
+				Alhambra
+			</name>
+			<name lang="tr">
+
+			</name>
+		</names>
+
+		<location>
+			<place>
+				Grenada
+			</place>
+			<country>
+				Spain
+			</country>
+		</location>
+
+		<description>
+			The history of the Alhambra is intimately linked to the site of the city of Granada. The Alhambra is a beautiful complex of buildings and gardens created for over 600 years. It is situated on a rocky hill that is difficult to reach, on the banks of the river Darro, protected by mountains and surrounded by forests. Originally conceived as a military zone, the Alhambra became a residence for the kings and the court of Granada in the middle of the 13th century, after the establishment of the Nasrid kingdom and the construction of the first palace by the founding king Mohammed Ibn Yusuf Ben Nasr, known as Alhamar. During the 13th, 14th and 15th centuries, the fortress is transformed into a citadel with high walls, and defensive towers, which houses two main areas: the military zone or Alcazaba, barracks of the royal guard, and the medina or city palate , where we can see Nasrid Palaces and the remains of noble and plebeian who lived there, and the Palace of Charles V which was built after the conquest of the city in 1492 by the Catholic Kings. The monumental complex also includes an independent palace in front of the Alhambra, surrounded by vegetable gardens, which was a holiday resort for the kings of Granada.
+		</description>
+
+		<link>
+			https://en.wikipedia.org/wiki/Alhambra
+			https://www.alhambradegranada.org/en/info/historicalintroduction.asp
+		</link>
+		<picture>
+			
+		</picture>
+	</monument>
+</monuments>
+
+
+<!--
+
+		<names>
+			<name lang="en">
+
+			</name>
+			<name lang="tr">
+
+			</name>
+		</names>
+
+		<location>
+			<place>
+
+			</place>
+			<country>
+
+			</country>
+		</location>
+
+		<description>
+
+		</description>
+
+		<link>
+
+		</link>
+		<picture>
+			
+		</picture>
+
+
+
+
+
+
+
+	-->

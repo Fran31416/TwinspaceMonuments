@@ -1,0 +1,7 @@
+﻿body { background-color: white; }
+.title{ display:block; text-align:center;}
+.search{display:block;}
+.show{ display:table-row;}
+.info{ display:table-cell;float:left;width:75%; background-color: lightgrey; }
+.image{ display:table-cell;float: right; width:25%;}	
+.hide{display:none;}
